@@ -1,0 +1,16 @@
+#heading_tag
+{
+    font-size: 20px ;
+}
+
+#btn1
+{
+    font-size: 17px;
+}
+
+canvas 
+{
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+}
